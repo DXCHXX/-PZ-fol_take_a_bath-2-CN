@@ -1,9 +1,10 @@
 version=1
-title=Save-Our-Station-2-CN
-description=Project Zomboid mod Save Our Station! æ±‰åŒ–
+id=3233437587
+title=fol_take_a_bath-2-CN
+description=Project Zomboid mod fol_take_a_bath ºº»¯
 description=
-description=æœ¬é¡¹ç›®è¯­è¨€æ–‡æœ¬ç¿»è¯‘ä½¿ç”¨å¤§è¯­è¨€æ¨¡å‹ç¿»è¯‘ã€‚
+description=±¾ÏîÄ¿ÓïÑÔÎÄ±¾·­ÒëÊ¹ÓÃ´óÓïÑÔÄ£ĞÍ·­Òë¡£
 description=
-description=æ±‰åŒ–modåœ°å€è®¢é˜…åœ°å€ï¼šhttps://steamcommunity.com/sharedfiles/filedetails/?id=2936196344
+description=ºº»¯modµØÖ·¶©ÔÄµØÖ·£ºhttps://steamcommunity.com/sharedfiles/filedetails/?id=2936196344
 tags=Build 41
 visibility=public
