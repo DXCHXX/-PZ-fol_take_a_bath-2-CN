@@ -1,0 +1,7 @@
+IGUI_CN = {
+    IGUI_take_off_headwear="脱掉头饰",
+    IGUI_take_off_clothes="脱掉衣服",
+    IGUI_take_off_underWear="脱掉內衣",
+    IGUI_take_off_backpack="脱掉背包",
+    IGUI_consume_water="消耗水源",
+}
